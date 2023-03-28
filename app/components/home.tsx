@@ -516,7 +516,7 @@ export function Home() {
         className={styles.sidebar + ` ${showSideBar && styles["sidebar-show"]}`}
       >
         <div className={styles["sidebar-header"]}>
-          <div className={styles["sidebar-title"]}>智能评估实验t</div>
+          <div className={styles["sidebar-title"]}>智能评估实验室</div>
           <div className={styles["sidebar-sub-title"]}>
             AI is All You Need.
           </div>
